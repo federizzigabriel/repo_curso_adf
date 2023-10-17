@@ -1,0 +1,9 @@
+{
+	"name": "adf-curso-udemy-gabriel",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1a645f0e-61af-44b2-a324-d15954e085f3",
+		"tenantId": "de30b897-eadd-4911-b7b1-2e8118c5093d"
+	}
+}
