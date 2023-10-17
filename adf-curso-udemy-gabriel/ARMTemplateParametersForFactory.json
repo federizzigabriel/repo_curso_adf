@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-curso-udemy-gabriel"
+		},
+		"ls_azuresql_connectionString": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_local_filsystem_password": {
+			"value": ""
+		},
+		"ls_local_sqlserver_connectionString": {
+			"value": "Integrated Security=True;Data Source=DESKTOP-N4Q2NN3;Initial Catalog=ProjectData2"
+		},
+		"ls_local_sqlserver_password": {
+			"value": ""
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://dlscursoudemygabriel.dfs.core.windows.net/"
+		},
+		"ls_local_filsystem_properties_typeProperties_host": {
+			"value": "C:\\Users\\gabri\\OneDrive\\Documentos\\example"
+		},
+		"ls_local_filsystem_properties_typeProperties_userId": {
+			"value": "Gabriel Federizzi"
+		},
+		"ls_local_sqlserver_properties_typeProperties_userName": {
+			"value": "gabriel.federizzi"
+		}
+	}
+}
